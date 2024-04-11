@@ -1,0 +1,12 @@
+D:\.NET\winfrom\Thao tác dữ liệu hoạt động ngoại khóa\Thao tác dữ liệu hoạt động ngoại khóa\bin\Debug\Thao tác dữ liệu hoạt động ngoại khóa.exe.config
+D:\.NET\winfrom\Thao tác dữ liệu hoạt động ngoại khóa\Thao tác dữ liệu hoạt động ngoại khóa\bin\Debug\Thao tác dữ liệu hoạt động ngoại khóa.exe
+D:\.NET\winfrom\Thao tác dữ liệu hoạt động ngoại khóa\Thao tác dữ liệu hoạt động ngoại khóa\bin\Debug\Thao tác dữ liệu hoạt động ngoại khóa.pdb
+D:\.NET\winfrom\Thao tác dữ liệu hoạt động ngoại khóa\Thao tác dữ liệu hoạt động ngoại khóa\obj\Debug\Thao tác dữ liệu hoạt động ngoại khóa.csproj.AssemblyReference.cache
+D:\.NET\winfrom\Thao tác dữ liệu hoạt động ngoại khóa\Thao tác dữ liệu hoạt động ngoại khóa\obj\Debug\Thao tác dữ liệu hoạt động ngoại khóa.csproj.SuggestedBindingRedirects.cache
+D:\.NET\winfrom\Thao tác dữ liệu hoạt động ngoại khóa\Thao tác dữ liệu hoạt động ngoại khóa\obj\Debug\Thao_tác_dữ_liệu_giáo_viên.Form1.resources
+D:\.NET\winfrom\Thao tác dữ liệu hoạt động ngoại khóa\Thao tác dữ liệu hoạt động ngoại khóa\obj\Debug\Thao_tác_dữ_liệu_hoạt_động_ngoại_khóa.HDNK.resources
+D:\.NET\winfrom\Thao tác dữ liệu hoạt động ngoại khóa\Thao tác dữ liệu hoạt động ngoại khóa\obj\Debug\Thao_tác_dữ_liệu_hoạt_động_ngoại_khóa.Properties.Resources.resources
+D:\.NET\winfrom\Thao tác dữ liệu hoạt động ngoại khóa\Thao tác dữ liệu hoạt động ngoại khóa\obj\Debug\Thao tác dữ liệu hoạt động ngoại khóa.csproj.GenerateResource.cache
+D:\.NET\winfrom\Thao tác dữ liệu hoạt động ngoại khóa\Thao tác dữ liệu hoạt động ngoại khóa\obj\Debug\Thao tác dữ liệu hoạt động ngoại khóa.csproj.CoreCompileInputs.cache
+D:\.NET\winfrom\Thao tác dữ liệu hoạt động ngoại khóa\Thao tác dữ liệu hoạt động ngoại khóa\obj\Debug\Thao tác dữ liệu hoạt động ngoại khóa.exe
+D:\.NET\winfrom\Thao tác dữ liệu hoạt động ngoại khóa\Thao tác dữ liệu hoạt động ngoại khóa\obj\Debug\Thao tác dữ liệu hoạt động ngoại khóa.pdb
